@@ -12,7 +12,7 @@
     <a href="https://youtube.com/@dananjaya-o7" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="mailto:kalharadananjaya1@gmail.com" target="_blank">
+    <a href="mailto:dhananjaya_kalhara@protonmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
